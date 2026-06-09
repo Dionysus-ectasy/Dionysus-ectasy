@@ -33,4 +33,7 @@ Dark-aesthetic dashboard built as a portfolio piece for freelance data visualisa
 
 ## 📫 Connect
 
-Open to freelance dashboard projects · Available on Fiverr · Based in Nigeria
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/99VbkxD)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divinenwaoha)
+
+Open to freelance dashboard projects · Based in Nigeria
